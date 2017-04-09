@@ -1,0 +1,40 @@
+6.
+
+# Algebraic data types
+## Sum types
+## Product types
+
+7.
+
+# Pattern matching
+## Pattern matching
+
+## General pattern matching and guards
+
+``` haskell
+f (pattern1) | predicate1 = w
+             | predicate2 = x
+
+f (pattern2) | predicate3 = y
+             | predicate4 = z
+```
+
+## Case expression
+
+8.
+
+# IO
+## IO actions
+
+9.
+
+# Polymorphism
+## Parametric polymorphism
+## Ad hoc polymorphism
+
+10.
+
+# Higher order functions
+## map
+## filter
+## fold
