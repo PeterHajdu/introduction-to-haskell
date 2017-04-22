@@ -1,17 +1,11 @@
-8.
-
-# IO
-## IO actions
-
-9.
-
 # Polymorphism
 ## Parametric polymorphism
 ## Ad hoc polymorphism
-
-10.
 
 # Higher order functions
 ## map
 ## filter
 ## fold
+
+# IO
+## IO actions
