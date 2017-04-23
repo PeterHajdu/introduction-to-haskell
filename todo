@@ -2,6 +2,11 @@
 ## Parametric polymorphism
 ## Ad hoc polymorphism
 
+# Maybe
+# Either
+# List
+# Tuples
+
 # Higher order functions
 ## map
 ## filter
