@@ -1,7 +1,3 @@
-# Polymorphism
-## Parametric polymorphism
-## Ad hoc polymorphism
-
 # Maybe
 # Either
 # List
@@ -12,5 +8,17 @@
 ## filter
 ## fold
 
+# Functions Misc
+## composition
+## lambda
+## $
+
 # IO
 ## IO actions
+
+# Maybe
+# Either
+# List
+# Tuples
+
+# Lazyness
