@@ -1,5 +1,4 @@
-# Send html body with mutt
+# Introduction to Jaskell
 
-```
-mutt -e "set content_type=text/html" <address> -s "<subject>" < <htmlfile>
-```
+This is an introductory Haskell training.  Every lecture needs at most 15-20
+minutes of work.  Try to finish one lecture each day.
