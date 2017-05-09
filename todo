@@ -1,16 +1,7 @@
-# List
-# Tuples
-# newtypes
-
 # Higher order functions
 ## map
 ## filter
 ## fold
-
-# Functions Misc
-## composition
-## lambda
-## $
 
 # IO
 ## IO actions
@@ -18,6 +9,10 @@
 # Maybe
 # Either
 # List
-# Tuples
 
+# Misc
+# composition
+# lambda
+# $
 # Lazyness
+# newtypes
