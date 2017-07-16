@@ -16,21 +16,23 @@ minutes of work.  Try to finish one lecture each day.
  * 09 - Algebraic Data Types
  * 10 - Parametric polymorphism
  * 11 - Ad-hoc polymorphism
+
+ * 21 - IO/1
  * 12 - Maybe
+ * 22 - IO/2
+ * 23 - IO/3
+ * 25 - Maybe/2
+ * 17 - Map
+ * 24 - IO/4
+
  * 13 - Either
+ * 26 - Either/2
  * 14 - Tuple
  * 15 - List
  * 16 - Recursive types
- * 17 - Map
  * 18 - Filter
  * 19 - Fold/1
  * 20 - Fold/2
- * 21 - IO/1
- * 22 - IO/2
- * 23 - IO/3
- * 24 - IO/4
- * 25 - Maybe/2
- * 26 - Either/2
  * 27 - Lambda
  * 28 - . and $
  * 29 - type, newtype
